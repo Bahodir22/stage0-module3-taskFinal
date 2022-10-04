@@ -5,5 +5,8 @@ public class PrintingFalse {
         int first = 9;
         int second = -17;
         System.out.println(first==second);
+        int num=22;
+        System.out.println(num>0);
+
     }
 }
